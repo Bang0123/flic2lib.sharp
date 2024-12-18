@@ -1,6 +1,6 @@
 # flic2lib.Platforms
 
-Contains net6 android and ios bindings for flic2lib Android and iOS sdk.
+Contains net8 android and ios bindings for flic2lib Android and iOS sdk.
 
 Refer to flic2lib repositories for documentation.
 
